@@ -9,7 +9,7 @@ C:\Users\you_user\\.vscode\extensions
 
 <img src="images/MSXBasic1.png" width=500px>
 
-Abre tu archivo .bas, .bas, .asc y elige el lenguage MSXBasic:
+Abre tu archivo .bas, .bad, .asc y elige el lenguage MSXBasic:
 
 Open your .bas, .bas, .asc file and choose the MSXBasic language:
 
