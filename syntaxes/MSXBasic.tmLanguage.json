@@ -29,7 +29,7 @@
 			},
 			{
 				"name": "comment.line.MSXBasic",
-				"match": "(?i:(\\#\\bREM\\b|'\b|#).*)"
+				"match": "(?i:(\\#\\bREM\\b|'\\b|#).*)"
 			},
 			{
 				"name": "comment.block.MSXBasic",
