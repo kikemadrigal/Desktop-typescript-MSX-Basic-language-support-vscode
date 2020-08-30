@@ -2,10 +2,10 @@
 
 ## Instalación / setup
 
-Pega este repositorio en la dirección C:\Users\tu_usuario\ .vscode\extensions
+Pega este repositorio en la dirección C:\Users\tu_usuario\\.vscode\extensions
 
 Paste this repository in the path 
-C:\Users\you_user\.vscode\extensions
+C:\Users\you_user\\.vscode\extensions
 
 <img src="images/MSXBasic1.png" width=500px>
 
