@@ -1,16 +1,20 @@
 # MSXBasic 
 ## instalación / setup
 1. Pega este repositorio en la dirección C:\Users\tu_usuario\.vscode\extensions
+
 Paste this repository in the path 
 C:\Users\you_user\.vscode\extensions
 
 <img src="images/MSXBasic1.png" width=500px>
 
 2.Abre tu archivo .bas, .bas, .asc y elige el lenguage MSXBasic:
+
 Open your .bas, .bas, .asc file and choose the MSXBasic language:
 
 <img src="images/MSXBasic2.png" width=500px>
 
 3. Para añadir nuevas palabras o una sintaxis distinta cambia el archivo:
+
 To add new words or a different syntax change the file:
+
 https://github.com/kikemadrigal/MSXBasic-language-support-vscode/blob/master/syntaxes/MSXBasic.tmLanguage.json
