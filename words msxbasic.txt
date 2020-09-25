@@ -4,3 +4,9 @@ scope: support.function.msxbasic
 
 - match: (?i:\?|as(?=\s*#|\s*\w+\$)|auto|as|beep|bload|bsave|circle|clear|cload|close|cls|cmd|color|cont|copy|copy|csave|csrlin|data|(def)(dbl|(?=\s?fn)|int|sng|str|\s?usr)|delete|dim|draw|dsko\$|else|end|erase|error|field|files|for|get|gosub|goto|if|input|interval|ipl|kanji|(?<=:|^|\d)\s*key(?!\()|kill|let|line|list|llist|load|locate|lprint|lset|maxfiles|merge|motor|name|new|next|off|on|open|out|output|paint|play(?!(\()| +\()|point|poke|preset|print|pset|put|read|renum|restore|resume|return|rset|run|run|save|screen|(set)(\sadjust|\sbeep|\spage|\spassword|\sprompt|\sscreen|\sscroll|\stitle|\svideo|\b)|sound|sprite\$|sprite|step|stop|swap|then|to|troff|tron|using|vpoke|wait|width)
 scope: keyword.msxbasic
+
+
+defusr
+usr
+preset
+mode
