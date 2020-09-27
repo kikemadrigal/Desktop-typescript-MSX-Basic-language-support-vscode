@@ -21,7 +21,7 @@
 			},
 			{
 				"name": "entity.name.function.MSXBasic",
-				"match": "(?i:\\b(ABS|ACS|ASN|ATN|ATTR|CHR$|CODE|COS|EXP|FN|INKEY$|INT|IN|LEN|LN|PEEK|PI|POINT|RND|SCREEN$|SGN|SIN|SQR|STR$|TAN|USR|VAL$|VAL|ASC|CAST|CHR|CSRLIN|HEX|HEX16|GetKey|MultiKeys|GetKeyScanCode|LBOUND|LCase|STR|POS|SCREEN|UCase)\\b)"
+				"match": "(?i:\\b(ABS|ACS|ASN|ATN|ATTR|CHR$|CODE|COS|EXP|FN|INKEY$|INT|IN|LEN|LN|LOCATE|PEEK|PI|POINT|RND|SCREEN$|SGN|SIN|SQR|STR$|TAN|USR|VAL$|VAL|ASC|CAST|CHR|CSRLIN|HEX|HEX16|GetKey|MultiKeys|GetKeyScanCode|LBOUND|LCase|STR|POS|SCREEN|UCase|VPOKE|WIDTH|MONO)\\b)"
 			},
 			{
 				"name": "entity.name.type.MSXBasic",
