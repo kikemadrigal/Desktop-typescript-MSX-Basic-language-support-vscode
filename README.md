@@ -1,5 +1,7 @@
 # MSXBasic for vscode
 
+Es una extesión o complemento para que las palabras reservadas de MSX Basic aparezcan con colorines.
+
 ## Instalación / setup
 
 Pega este repositorio en la dirección C:\Users\tu_usuario\\.vscode\extensions
